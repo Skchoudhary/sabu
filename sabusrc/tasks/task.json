@@ -1,0 +1,39 @@
+{
+ "all": [{
+   "task": "Touch Typing Practicse",
+   "time": "22:21"
+ },
+ {
+  "task": "Touch Typing Practicse",
+  "time": "22:19"
+}
+],
+ "monday": [{
+   "task": "",
+   "time": ""
+ }],
+"tuesday": [{
+   "task": "",
+   "time": ""
+ }],
+"wednesday": [{
+   "task": "",
+   "time": ""
+ }],
+"thursday": [{
+   "task": "",
+   "time": ""
+ }],
+"friday": [{
+   "task": "",
+   "time": ""
+ }],
+"saturday": [{
+   "task": "",
+   "time": ""
+ }],
+"sunday": [{
+  "task": ""  ,
+  "time": ""
+}]
+}
