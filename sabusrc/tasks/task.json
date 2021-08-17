@@ -1,45 +1,20 @@
 {
-    "everyday": [],
-    "monday": [
+    "eve": [],
+    "mon": [
         {
-            "task": "",
-            "time": ""
+            "task": "read",
+            "time": "12:00"
         }
     ],
-    "tuesday": [
+    "tue": [
         {
-            "task": "",
-            "time": ""
+            "task": "typing test",
+            "time": "12:30"
         }
     ],
-    "wednesday": [
-        {
-            "task": "",
-            "time": ""
-        }
-    ],
-    "thursday": [
-        {
-            "task": "",
-            "time": ""
-        }
-    ],
-    "friday": [
-        {
-            "task": "",
-            "time": ""
-        }
-    ],
-    "saturday": [
-        {
-            "task": "",
-            "time": ""
-        }
-    ],
-    "sunday": [
-        {
-            "task": "",
-            "time": ""
-        }
-    ]
+    "wed": [],
+    "thu": [],
+    "fri": [],
+    "sat": [],
+    "sun": []
 }
